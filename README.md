@@ -23,10 +23,9 @@ $ rake ffoo
 
 Don't know how to build task 'food:bar'
 
-Did you mean one of these?
+Did you mean this?
 
-	foo:bar
-	food:bad
+	foo
 ```
 
 # Install and use
