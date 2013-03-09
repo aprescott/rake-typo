@@ -1,6 +1,6 @@
 # No more task typos
 
-Tired of seeing this and not knowing the exact command name?
+Tired of seeing this and not knowing the exact task name?
 
 ```
 $ rake ffoo
