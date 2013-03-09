@@ -29,6 +29,14 @@ Did you mean one of these?
 	food:bad
 ```
 
+# Install and use
+
+```bash
+$ gem install rake-typo
+```
+
+Then simply `require "rake-typo"` to your Rake file.
+
 # License and contributing
 
 Released under the MIT license. See LICENSE for details.
