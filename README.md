@@ -40,8 +40,6 @@ Then simply `require "rake-typo"` to your Rake file.
 
 Released under the MIT license. See LICENSE for details.
 
-Any contributions will be assumed by default to be under the same terms.
-
 The quickest way to get changes contributed:
 
 1. Visit the [GitHub repository for rake-typo](https://github.com/aprescott/rake-typo).
